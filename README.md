@@ -1,60 +1,74 @@
 # Diêgo Azevedo
 
-Solutions architect. Boa Vista, Brazil — remote. Fifteen years in software:
-programming, project management, systems analysis and architecture. Recent
-work focused on agentic systems.
+Solutions architect and full-stack developer. Boa Vista, Brazil — open to
+on-site, hybrid or remote work, including relocation.
+Fifteen years building and running software, from requirements to production,
+twelve of them also managing projects and teams, in public health networks and
+regulated environments. Artificial intelligence since 2019; agentic systems in
+production since 2025.
 
-## Control layer
+## Focus
 
 Agentic systems deliver the artifact and, with it, the claim that the artifact
-is correct. The two are not the same thing.
+is correct. The two are not the same thing. The work is the control layer that
+keeps them apart — the same software engineering in every project, whatever the
+model or the tool:
 
-The work consists of building what makes that gap visible before production:
-
-- **Specification before implementation.** The system operates against a
-  written specification, not against a conversation.
-- **Acceptance criteria as a gate.** A phase closes when the criteria pass, not
-  when the system declares it complete.
-- **Adversarial audit of the raw artifact.** A separate session re-runs the
-  proofs against the code itself. The one who implements does not audit.
-
-None of this is new. It is software engineering discipline — the same
-discipline that, in another context, became standard operating procedure
-subject to regulatory authority. Part of these ideas was rediscovered under
-other names in AI-assisted development, not always with what made them useful:
-separation of roles, reproducible proof, and a gate that does not depend on
-opinion.
+- **Specification before implementation** (spec-driven development).
+- **Acceptance criteria as a gate.**
+- **Adversarial audit of the raw artifact.** The one who implements does not audit.
 
 ## Featured
 
-**[metodo-auditado](https://github.com/diegoazevedo-inov/metodo-auditado)** —
-the method, written down. Separated roles, measurement before opinion, and a
-checker that is only put to use after it catches a planted defect. First full
-application: the UI debt of a production web app brought to zero, with
-permanent checks in place. Documentation in Portuguese, summary in English.
+- **[metodo-auditado](https://github.com/diegoazevedo-inov/metodo-auditado)** —
+  a method for building software with agentic systems: separated roles,
+  measurement before opinion, checkers proven by planted defects. First
+  application: a production web app from 60 routes with layout overflow and
+  6,606 hard-coded colors to zero.
+- **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
+  one backlog source of truth mirrored into Jira, Trello and GitHub Projects,
+  with idempotence and verifiable fidelity. Fifty tests, fifty planted defects.
+- **[LogosDICOMFilm](https://github.com/diegoazevedo-inov/LogosDICOMFilm)** and
+  **[LogosBalancaDicom](https://github.com/diegoazevedo-inov/LogosBalancaDicom)** —
+  DICOM tools, each a single HTML file that runs in the browser.
 
-## Recent work
+## Areas
 
-- Hardened MCP server: schema-validated tools, human approval in the loop,
-  self-approval blocked at the database level.
-- Multi-tenant platform on PostgreSQL row-level security, with an automated
-  test suite.
+- **Agentic systems:** MCP servers with human approval, A2A between specialized
+  agents, model routing by profile and task with cost measured per question,
+  behavior canaries.
+- **Retrieval:** RAG with pgvector, hybrid search, re-ranking and GraphRAG.
+- **Computer vision and automation:** AI vision with cameras and drones since
+  2019, and process automation.
+- **Health IT:** HIS, RIS, PACS and DICOM in public and private networks across
+  three states.
+- **Project and product management:** Scrum, Kanban, backlog, requirements and
+  acceptance criteria; teams of up to eight.
+- **Information security:** protection of products and infrastructure, posture
+  assessments, ISO/IEC 27001, LGPD.
+- **Public education:** technical guidance for a public high-school science
+  project — an offline financial-education app and an agent where the model
+  interprets and tested formulas compute.
 
-TypeScript · NestJS · Next.js · PostgreSQL · Prisma · Redis · BullMQ ·
-Playwright · Docker · Python
+## Stack
 
-## Domain and security
+- **Languages:** TypeScript · JavaScript · Java · Python · SQL
+- **Back end and front end:** Node.js · NestJS · Next.js · React · Django ·
+  J2EE (JSF, RichFaces, Maven)
+- **Data:** PostgreSQL · MySQL · pgvector · Redis · Prisma
+- **Infrastructure:** Linux · Docker · Google Cloud (Cloud Run, Vertex AI) ·
+  GitHub Actions · MQTT · BullMQ
+- **AI:** MCP · A2A · RAG · computer vision · AI-assisted development
+  (Claude Code and others) · Anthropic, Gemini and OpenAI APIs
+- **Health:** DICOM · HL7 · HIS · RIS · PACS
+- **Quality:** Playwright · automated test suites · CI
 
-Medical imaging, DICOM and clinical workflows hold the greatest domain depth —
-not the limit of the scope. Open tools from that front:
-[LogosBalancaDicom](https://github.com/diegoazevedo-inov/LogosBalancaDicom) and
-[LogosDICOMFilm](https://github.com/diegoazevedo-inov/LogosDICOMFilm), each a
-single HTML file that runs in the browser.
+## Education
 
-Information security since 2022. ISO/IEC 27001 as the compliance reference;
-LGPD in current practice.
+Technologist in Systems Analysis and Development — Federal Institute of Roraima.
+Specialization in Digital Health — Federal University of Goiás.
 
 ## Languages
 
-Portuguese, native. Spanish and Italian, advanced. English: solid reading and
-listening; conversation in development.
+Portuguese, native. Spanish, advanced. English: solid reading and listening;
+conversation in development.
