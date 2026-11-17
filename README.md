@@ -31,6 +31,7 @@ Método e ferramentas, em código aberto:
   medição antes de opinião, verificadores provados por defeitos plantados.
   Primeira aplicação: uma aplicação web em produção saiu de 60 rotas com
   transbordo de layout e 6.606 cores fixas no código para zero.
+  DOI [10.5281/zenodo.24237079](https://doi.org/10.5281/zenodo.24237079).
 - **[decisao-medida](https://github.com/diegoazevedo-inov/decisao-medida)** —
   protocolo para decidir tecnologia e processo com evidência: requisitos e
   regra de decisão fixados antes da coleta, opções medidas na mesma bancada e
@@ -39,7 +40,7 @@ Método e ferramentas, em código aberto:
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   fonte única de backlog espelhada para Jira, Trello e GitHub Projects, com
   idempotência e fidelidade verificável. Cinquenta testes, cinquenta defeitos
-  plantados.
+  plantados. DOI [10.5281/zenodo.24237082](https://doi.org/10.5281/zenodo.24237082).
 
 Dados reproduzíveis e perícia:
 
@@ -149,6 +150,7 @@ Method and tools, open source:
   measurement before opinion, checkers proven by planted defects. First
   application: a production web app from 60 routes with layout overflow and
   6,606 hard-coded colors to zero.
+  DOI [10.5281/zenodo.24237079](https://doi.org/10.5281/zenodo.24237079).
 - **[decisao-medida](https://github.com/diegoazevedo-inov/decisao-medida)** —
   a protocol for choosing technology and process with evidence: requirements
   and decision rule fixed before collection, options measured on the same
@@ -157,6 +159,7 @@ Method and tools, open source:
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   one backlog source of truth mirrored into Jira, Trello and GitHub Projects,
   with idempotence and verifiable fidelity. Fifty tests, fifty planted defects.
+  DOI [10.5281/zenodo.24237082](https://doi.org/10.5281/zenodo.24237082).
 
 Reproducible data and forensics:
 
@@ -266,6 +269,7 @@ Método y herramientas, de código abierto:
   medición antes que opinión, verificadores probados con defectos plantados.
   Primera aplicación: una aplicación web en producción pasó de 60 rutas con
   desbordamiento de diseño y 6.606 colores fijos en el código a cero.
+  DOI [10.5281/zenodo.24237079](https://doi.org/10.5281/zenodo.24237079).
 - **[decisao-medida](https://github.com/diegoazevedo-inov/decisao-medida)** —
   protocolo para decidir tecnología y proceso con evidencia: requisitos y regla
   de decisión fijados antes de la recolección, opciones medidas en el mismo
@@ -274,7 +278,7 @@ Método y herramientas, de código abierto:
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   fuente única de backlog reflejada en Jira, Trello y GitHub Projects, con
   idempotencia y fidelidad verificable. Cincuenta pruebas, cincuenta defectos
-  plantados.
+  plantados. DOI [10.5281/zenodo.24237082](https://doi.org/10.5281/zenodo.24237082).
 
 Datos reproducibles y peritaje:
 
