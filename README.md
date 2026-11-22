@@ -37,6 +37,11 @@ Método e ferramentas, em código aberto:
   regra de decisão fixados antes da coleta, opções medidas na mesma bancada e
   previsão conferida em data marcada.
   DOI [10.5281/zenodo.24139207](https://doi.org/10.5281/zenodo.24139207).
+- **[verifiable-constitution](https://github.com/diegoazevedo-inov/verifiable-constitution)** —
+  constituição verificável para sistemas com agentes de LLM: cada princípio vira
+  proibições ligadas a verificações executáveis, vistas falhando sob violação
+  plantada, com cobertura medida por cláusula e quatro rodadas de auditoria
+  registradas. DOI [10.5281/zenodo.24378947](https://doi.org/10.5281/zenodo.24378947); preprint [10.5281/zenodo.24442875](https://doi.org/10.5281/zenodo.24442875).
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   fonte única de backlog espelhada para Jira, Trello e GitHub Projects, com
   idempotência e fidelidade verificável. Cinquenta testes, cinquenta defeitos
@@ -59,6 +64,8 @@ Imagem em saúde:
 - **[LogosDICOMFilm](https://github.com/diegoazevedo-inov/LogosDICOMFilm)** e
   **[LogosBalancaDicom](https://github.com/diegoazevedo-inov/LogosBalancaDicom)** —
   ferramentas DICOM, cada uma num único arquivo HTML que roda no navegador.
+  DOI [10.5281/zenodo.24237084](https://doi.org/10.5281/zenodo.24237084) e
+  [10.5281/zenodo.24237060](https://doi.org/10.5281/zenodo.24237060).
 
 ## Áreas
 
@@ -156,6 +163,11 @@ Method and tools, open source:
   and decision rule fixed before collection, options measured on the same
   bench, a prediction checked on a set date.
   DOI [10.5281/zenodo.24139207](https://doi.org/10.5281/zenodo.24139207).
+- **[verifiable-constitution](https://github.com/diegoazevedo-inov/verifiable-constitution)** —
+  a verifiable constitution for LLM-agent systems: each principle becomes
+  prohibitions bound to executable checks seen failing under planted
+  violations, with coverage measured per clause and four audit rounds on
+  record. DOI [10.5281/zenodo.24378947](https://doi.org/10.5281/zenodo.24378947); preprint [10.5281/zenodo.24442875](https://doi.org/10.5281/zenodo.24442875).
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   one backlog source of truth mirrored into Jira, Trello and GitHub Projects,
   with idempotence and verifiable fidelity. Fifty tests, fifty planted defects.
@@ -177,6 +189,8 @@ Health imaging:
 - **[LogosDICOMFilm](https://github.com/diegoazevedo-inov/LogosDICOMFilm)** and
   **[LogosBalancaDicom](https://github.com/diegoazevedo-inov/LogosBalancaDicom)** —
   DICOM tools, each a single HTML file that runs in the browser.
+  DOI [10.5281/zenodo.24237084](https://doi.org/10.5281/zenodo.24237084) and
+  [10.5281/zenodo.24237060](https://doi.org/10.5281/zenodo.24237060).
 
 ### Areas
 
@@ -275,6 +289,11 @@ Método y herramientas, de código abierto:
   de decisión fijados antes de la recolección, opciones medidas en el mismo
   banco y una predicción verificada en fecha fija.
   DOI [10.5281/zenodo.24139207](https://doi.org/10.5281/zenodo.24139207).
+- **[verifiable-constitution](https://github.com/diegoazevedo-inov/verifiable-constitution)** —
+  constitución verificable para sistemas con agentes de LLM: cada principio se
+  convierte en prohibiciones ligadas a verificaciones ejecutables, vistas
+  fallando ante violaciones plantadas, con cobertura medida por cláusula y
+  cuatro rondas de auditoría registradas. DOI [10.5281/zenodo.24378947](https://doi.org/10.5281/zenodo.24378947); preprint [10.5281/zenodo.24442875](https://doi.org/10.5281/zenodo.24442875).
 - **[espelho-backlog](https://github.com/diegoazevedo-inov/espelho-backlog)** —
   fuente única de backlog reflejada en Jira, Trello y GitHub Projects, con
   idempotencia y fidelidad verificable. Cincuenta pruebas, cincuenta defectos
@@ -298,6 +317,8 @@ Imagen en salud:
   **[LogosBalancaDicom](https://github.com/diegoazevedo-inov/LogosBalancaDicom)** —
   herramientas DICOM, cada una en un único archivo HTML que corre en el
   navegador.
+  DOI [10.5281/zenodo.24237084](https://doi.org/10.5281/zenodo.24237084) y
+  [10.5281/zenodo.24237060](https://doi.org/10.5281/zenodo.24237060).
 
 ### Áreas
 
