@@ -58,6 +58,11 @@ Dados reproduzíveis e perícia:
   promessas de "recuperação" contra a blockchain, com caso encenado em rede de
   teste.
   DOI [10.5281/zenodo.24296844](https://doi.org/10.5281/zenodo.24296844).
+- **[agent-approval-evidence](https://github.com/diegoazevedo-inov/agent-approval-evidence)** —
+  consultas somente de leitura, saídas agregadas e verificador da avaliação em
+  produção de um procedimento determinístico de aprovação para agentes de IA na
+  operação de TI de serviços de saúde, provado por defeitos plantados.
+  DOI [10.5281/zenodo.24487721](https://doi.org/10.5281/zenodo.24487721).
 
 Imagem em saúde:
 
@@ -183,6 +188,11 @@ Reproducible data and forensics:
   a read-only method to trace USDT (TRC-20) after fraud and check "recovery"
   claims against the blockchain, with a staged case on a test network.
   DOI [10.5281/zenodo.24296844](https://doi.org/10.5281/zenodo.24296844).
+- **[agent-approval-evidence](https://github.com/diegoazevedo-inov/agent-approval-evidence)** —
+  read-only queries, aggregated outputs and a checker for the production
+  evaluation of a deterministic approval procedure for AI agents operating
+  health-service IT, proven by planted defects.
+  DOI [10.5281/zenodo.24487721](https://doi.org/10.5281/zenodo.24487721).
 
 Health imaging:
 
@@ -310,6 +320,11 @@ Datos reproducibles y peritaje:
   promesas de "recuperación" con la blockchain, con un caso simulado en red de
   prueba.
   DOI [10.5281/zenodo.24296844](https://doi.org/10.5281/zenodo.24296844).
+- **[agent-approval-evidence](https://github.com/diegoazevedo-inov/agent-approval-evidence)** —
+  consultas de solo lectura, salidas agregadas y un verificador de la evaluación
+  en producción de un procedimiento determinista de aprobación para agentes de IA
+  en la operación de TI de servicios de salud, probado con defectos plantados.
+  DOI [10.5281/zenodo.24487721](https://doi.org/10.5281/zenodo.24487721).
 
 Imagen en salud:
 
